@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: blueviolet;
+    text-align: center;
+    height: 160px;
+    width: 100%;
+    padding-top: 20px;
+
+}
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    border: 5px solid rgb(168, 130, 238);
+    position: relative;
+    top: -80px;
+    left: -450px;
+}
+.name {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 10px;
+    position: relative;
+    top: 40px;
+}
+.role {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    position: relative;
+    top: 40px;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.unity-logo {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -200px;
+    left: 450px;
+}
+main {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(24, 24, 24);
+    height: 1750px;
+    align-items: center;
+}
+.mainhead{
+    color: blueviolet;
+    font-size: 72px;
+    margin-bottom: 150px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 20px;
+}
+.facebook-logo {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 70px;
+    left: -200px;
+}
+.facebook-logo:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+.Credly-logo {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 70px;
+    left: -50px;
+    border-radius: 50%;
+}
+.Credly-logo:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+.gmail-logo {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 70px;
+    left: 100px;
+    border-radius: 00%;
+}
+.gmail-logo:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+.github-logo {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 70px;
+    left: 200px;
+}
+.github-logo:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+.facebook {
+    color: rgb(43, 144, 226);
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: -50px;
+    left: -510px;
+}
+.credly {
+    color: rgb(0, 107, 48);
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: -5px;
+    left: -150px;
+}
+.gmail {
+    color: rgb(219, 68, 55);
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 40px;
+    left: 200px;
+}
+.github {
+    color: rgb(36, 41, 46);
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 85px;
+    left: 500px;
+}
+footer {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    top: 00px;
+}
+.badges {
+    color: blueviolet;
+    font-size: 72px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 200px;
+}
+.badge1-logo {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 300px;
+    left: -200px;
+    border-radius: 00%;
+}
+.badge2-logo {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 300px;
+    left: 200px;
+    border-radius: 00%;
+}
+.line {
+    border: 0;
+    height: 0.5%;
+    background-color: blueviolet;
+    margin: 20px 0;
+    width: 80%;
+    left: 10%;
+    position: relative;
+    top: 200px;
+}
