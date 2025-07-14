@@ -44,16 +44,3 @@ button:hover {
     background-color: #111;
     color: blueviolet;
 }
-footer {
-    background-color: blueviolet;
-    color: #111;
-    text-align: center;
-    padding: 0.1rem;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-.footer-text {
-    margin: 0;
-    padding: 0.5rem;
-}
