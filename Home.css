@@ -8,6 +8,7 @@ header {
     background-color: blueviolet;
     color: #111;
     text-align: center;
+    overflow-x: hidden;
 }
 main {
     display: flex;
@@ -17,12 +18,12 @@ main {
     height: 100vh;
 }
 .profile-pic {
-    width: 400px;
+    width: 300px;
     height: auto;
     border-radius: 50%;
     border: #720dc4 10px solid;
     box-shadow: 0 0 10px rgba(162, 0, 255, 0.5);
-    margin-top: -10rem;
+    margin-top: 0rem;
 }
 .p{
     color: blueviolet;
