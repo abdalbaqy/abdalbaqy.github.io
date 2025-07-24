@@ -1,0 +1,1 @@
+Camera.transform.localRotation = Quaternion.Euler(Input.mousePosition.y * -Sensitivity, Input.mousePosition.x * Sensitivity, 0); xx
